@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:32651"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292020.66679999977, 1621485.9113999996]
+      },
+      "properties": {
+        "FID": 0,
+        "Dorm_name": "Kalayaan Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 1,
+        "Demand_Pop": 534,
+        "Node_Type": "Dormitory",
+        "UP_ID": 1,
+        "UPD_ID": 1,
+        "Pop_Capaci": 534,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [291904.57400000002, 1621383.5385999996]
+      },
+      "properties": {
+        "FID": 1,
+        "Dorm_name": "Molave Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 2,
+        "Demand_Pop": 190,
+        "Node_Type": "Dormitory",
+        "UP_ID": 2,
+        "UPD_ID": 2,
+        "Pop_Capaci": 190,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292066.78309999965, 1621340.7639000006]
+      },
+      "properties": {
+        "FID": 2,
+        "Dorm_name": "Yakal Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 3,
+        "Demand_Pop": 380,
+        "Node_Type": "Dormitory",
+        "UP_ID": 3,
+        "UPD_ID": 3,
+        "Pop_Capaci": 380,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292149.08910000045, 1621337.5995000005]
+      },
+      "properties": {
+        "FID": 3,
+        "Dorm_name": "Ipil Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 4,
+        "Demand_Pop": 326,
+        "Node_Type": "Dormitory",
+        "UP_ID": 4,
+        "UPD_ID": 4,
+        "Pop_Capaci": 326,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292258.67760000005, 1620739.2462000009]
+      },
+      "properties": {
+        "FID": 4,
+        "Dorm_name": "Kamia Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 5,
+        "Demand_Pop": 288,
+        "Node_Type": "Dormitory",
+        "UP_ID": 5,
+        "UPD_ID": 5,
+        "Pop_Capaci": 288,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292272.83540000021, 1620752.9614000004]
+      },
+      "properties": {
+        "FID": 5,
+        "Dorm_name": "Sampaguita Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 6,
+        "Demand_Pop": 284,
+        "Node_Type": "Dormitory",
+        "UP_ID": 6,
+        "UPD_ID": 6,
+        "Pop_Capaci": 284,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [291332.90720000025, 1620280.9784999993]
+      },
+      "properties": {
+        "FID": 6,
+        "Dorm_name": "Centennial Dormitory",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 7,
+        "Demand_Pop": 482,
+        "Node_Type": "Dormitory",
+        "UP_ID": 7,
+        "UPD_ID": 7,
+        "Pop_Capaci": 482,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [291935.23629999999, 1621464.9597999994]
+      },
+      "properties": {
+        "FID": 7,
+        "Dorm_name": "Sanggumay Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 8,
+        "Demand_Pop": 126,
+        "Node_Type": "Dormitory",
+        "UP_ID": 8,
+        "UPD_ID": 8,
+        "Pop_Capaci": 126,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [291350.29110000003, 1620328.5151000004]
+      },
+      "properties": {
+        "FID": 8,
+        "Dorm_name": "Kamagong Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 9,
+        "Demand_Pop": 75,
+        "Node_Type": "Dormitory",
+        "UP_ID": 9,
+        "UPD_ID": 9,
+        "Pop_Capaci": 75,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292476.88410000037, 1621415.6392000001]
+      },
+      "properties": {
+        "FID": 9,
+        "Dorm_name": "International Center",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 10,
+        "Demand_Pop": 160,
+        "Node_Type": "Dormitory",
+        "UP_ID": 10,
+        "UPD_ID": 10,
+        "Pop_Capaci": 160,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292472.01389999967, 1621528.5072000008]
+      },
+      "properties": {
+        "FID": 10,
+        "Dorm_name": "Ilang-Ilang Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 11,
+        "Demand_Pop": 272,
+        "Node_Type": "Dormitory",
+        "UP_ID": 11,
+        "UPD_ID": 11,
+        "Pop_Capaci": 272,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292114.7209999999, 1621540.4820000008]
+      },
+      "properties": {
+        "FID": 11,
+        "Dorm_name": "Acacia Residence Hall",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 12,
+        "Demand_Pop": 480,
+        "Node_Type": "Dormitory",
+        "UP_ID": 12,
+        "UPD_ID": 12,
+        "Pop_Capaci": 480,
+        "Brgy_ID": 1381300124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292185.96449999977, 1621633.9287999999]
+      },
+      "properties": {
+        "FID": 12,
+        "Dorm_name": "Balay Atleta",
+        "Name_1": "UP Campus",
+        "Dorm_ID": 13,
+        "Demand_Pop": 50,
+        "Node_Type": "Dormitory",
+        "UP_ID": 13,
+        "UPD_ID": 13,
+        "Pop_Capaci": 50,
+        "Brgy_ID": 1381300124
+      }
+    }
+  ]
+}
