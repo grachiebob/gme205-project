@@ -48,17 +48,17 @@
       "id": 2,
       "geometry": {
         "type": "Point",
-        "coordinates": [289679.35429999977, 1620167.0413000006]
+        "coordinates": [286545.91110000014, 1621823.3400999997]
       },
       "properties": {
         "FID": 2,
-        "F_id": "relation/14906319",
+        "F_id": "relation/14582129",
         "addr_city": "Quezon City",
-        "addr_stree": "East Avenue",
+        "addr_stree": "Seminary Road",
         "Node_Type": "Hospital",
-        "HCF_name": "National Kidney and Transplant Institute",
+        "HCF_name": "Quezon City General Hospital",
         "Fac_ID": 3,
-        "bed_capaci": 315
+        "bed_capaci": 250
       }
     },
     {
@@ -66,17 +66,17 @@
       "id": 3,
       "geometry": {
         "type": "Point",
-        "coordinates": [290176.15799999982, 1618844.8340000007]
+        "coordinates": [289679.35429999977, 1620167.0413000006]
       },
       "properties": {
         "FID": 3,
-        "F_id": "way/85238912",
+        "F_id": "relation/14906319",
         "addr_city": "Quezon City",
-        "addr_stree": "V. Luna Road",
+        "addr_stree": "East Avenue",
         "Node_Type": "Hospital",
-        "HCF_name": "Armed Forces of the Philippines Medical Center",
+        "HCF_name": "National Kidney and Transplant Institute",
         "Fac_ID": 4,
-        "bed_capaci": 1200
+        "bed_capaci": 315
       }
     },
     {
@@ -84,17 +84,17 @@
       "id": 4,
       "geometry": {
         "type": "Point",
-        "coordinates": [289756.84559999965, 1619625.0991999991]
+        "coordinates": [292386.27329999954, 1617421.4832000006]
       },
       "properties": {
         "FID": 4,
-        "F_id": "way/91187868",
+        "F_id": "relation/16999339",
         "addr_city": "Quezon City",
-        "addr_stree": "East Avenue",
+        "addr_stree": "J. P. Rizal Street",
         "Node_Type": "Hospital",
-        "HCF_name": "East Avenue Medical Center",
+        "HCF_name": "Quirino Memorial Medical Center",
         "Fac_ID": 5,
-        "bed_capaci": 1000
+        "bed_capaci": 599
       }
     },
     {
@@ -102,17 +102,17 @@
       "id": 5,
       "geometry": {
         "type": "Point",
-        "coordinates": [289810.3861999996, 1619849.1536999997]
+        "coordinates": [290176.15799999982, 1618844.8340000007]
       },
       "properties": {
         "FID": 5,
-        "F_id": "way/91187869",
+        "F_id": "way/85238912",
         "addr_city": "Quezon City",
-        "addr_stree": "East Avenue",
+        "addr_stree": "V. Luna Road",
         "Node_Type": "Hospital",
-        "HCF_name": "Philippine Heart Center",
+        "HCF_name": "Armed Forces of the Philippines Medical Center",
         "Fac_ID": 6,
-        "bed_capaci": 574
+        "bed_capaci": 1200
       }
     },
     {
@@ -120,17 +120,17 @@
       "id": 6,
       "geometry": {
         "type": "Point",
-        "coordinates": [289050.15529999975, 1620271.4960999992]
+        "coordinates": [289756.84559999965, 1619625.0991999991]
       },
       "properties": {
         "FID": 6,
-        "F_id": "way/231404558",
+        "F_id": "way/91187868",
         "addr_city": "Quezon City",
-        "addr_stree": "Quezon Avenue",
+        "addr_stree": "East Avenue",
         "Node_Type": "Hospital",
-        "HCF_name": "Philippine Children's Medical Center",
+        "HCF_name": "East Avenue Medical Center",
         "Fac_ID": 7,
-        "bed_capaci": 200
+        "bed_capaci": 1000
       }
     },
     {
@@ -138,17 +138,17 @@
       "id": 7,
       "geometry": {
         "type": "Point",
-        "coordinates": [292453.42960000038, 1622433.2049000002]
+        "coordinates": [289810.3861999996, 1619849.1536999997]
       },
       "properties": {
         "FID": 7,
-        "F_id": "way/704249058",
+        "F_id": "way/91187869",
         "addr_city": "Quezon City",
-        "addr_stree": "Commonwealth Avenue",
+        "addr_stree": "East Avenue",
         "Node_Type": "Hospital",
-        "HCF_name": "General Malvar Hospital",
+        "HCF_name": "Philippine Heart Center",
         "Fac_ID": 8,
-        "bed_capaci": 46
+        "bed_capaci": 574
       }
     },
     {
@@ -156,17 +156,17 @@
       "id": 8,
       "geometry": {
         "type": "Point",
-        "coordinates": [288228.3956000004, 1622608.9399999995]
+        "coordinates": [288927.00820000004, 1621224.2240999993]
       },
       "properties": {
         "FID": 8,
-        "F_id": " ",
-        "addr_city": " ",
-        "addr_stree": "Mindanao Avenue Ext",
+        "F_id": "way/93806644",
+        "addr_city": "Quezon City",
+        "addr_stree": "North Avenue",
         "Node_Type": "Hospital",
-        "HCF_name": "Metro North Medical Center Hospital",
+        "HCF_name": "Veterans Memorial Medical Center",
         "Fac_ID": 9,
-        "bed_capaci": 80
+        "bed_capaci": 766
       }
     },
     {
@@ -174,16 +174,160 @@
       "id": 9,
       "geometry": {
         "type": "Point",
-        "coordinates": [288025.87729999982, 1619533.5867999997]
+        "coordinates": [291798.99940000009, 1622079.4892999995]
       },
       "properties": {
         "FID": 9,
+        "F_id": "way/96054542",
+        "addr_city": "Quezon City",
+        "addr_stree": "Commonwealth Avenue",
+        "Node_Type": "Hospital",
+        "HCF_name": "New Era General Hospital",
+        "Fac_ID": 10,
+        "bed_capaci": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [289050.15529999975, 1620271.4960999992]
+      },
+      "properties": {
+        "FID": 10,
+        "F_id": "way/231404558",
+        "addr_city": "Quezon City",
+        "addr_stree": "Quezon Avenue",
+        "Node_Type": "Hospital",
+        "HCF_name": "Philippine Children's Medical Center",
+        "Fac_ID": 11,
+        "bed_capaci": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [291401.07799999975, 1617967.3069000002]
+      },
+      "properties": {
+        "FID": 11,
+        "F_id": "way/283053426",
+        "addr_city": "Quezon City",
+        "addr_stree": "Aurora Boulevard",
+        "Node_Type": "Hospital",
+        "HCF_name": "World Citi Medical Center",
+        "Fac_ID": 12,
+        "bed_capaci": 276
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292814.28249999974, 1622528.0632000007]
+      },
+      "properties": {
+        "FID": 12,
+        "F_id": "way/704249058",
+        "addr_city": "Quezon City",
+        "addr_stree": "Commonwealth Avenue",
+        "Node_Type": "Hospital",
+        "HCF_name": "Diliman Doctors Hospital",
+        "Fac_ID": 13,
+        "bed_capaci": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [294234.29260000028, 1624477.5504999999]
+      },
+      "properties": {
+        "FID": 13,
+        "F_id": "way/784554612",
+        "addr_city": "Quezon City",
+        "addr_stree": "Batasan Hills",
+        "Node_Type": "Hospital",
+        "HCF_name": "Rosario Maclang Bautista General Hospital",
+        "Fac_ID": 14,
+        "bed_capaci": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [292453.42960000038, 1622433.2049000002]
+      },
+      "properties": {
+        "FID": 14,
+        "F_id": "way/704249058",
+        "addr_city": "Quezon City",
+        "addr_stree": "Commonwealth Avenue",
+        "Node_Type": "Hospital",
+        "HCF_name": "General Malvar Hospital",
+        "Fac_ID": 15,
+        "bed_capaci": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [287156.02460000012, 1621606.1720000003]
+      },
+      "properties": {
+        "FID": 15,
+        "F_id": " ",
+        "addr_city": "Quezon City",
+        "addr_stree": "Bukidnon Street",
+        "Node_Type": "Hospital",
+        "HCF_name": "Dr. Montano G. Ramos General Hospital",
+        "Fac_ID": 16,
+        "bed_capaci": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [288228.3956000004, 1622608.9399999995]
+      },
+      "properties": {
+        "FID": 16,
+        "F_id": " ",
+        "addr_city": " ",
+        "addr_stree": "Mindanao Avenue Ext",
+        "Node_Type": "Hospital",
+        "HCF_name": "Metro North Medical Center Hospital",
+        "Fac_ID": 17,
+        "bed_capaci": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [288025.87729999982, 1619533.5867999997]
+      },
+      "properties": {
+        "FID": 17,
         "F_id": " ",
         "addr_city": " ",
         "addr_stree": "Providence Hospital",
         "Node_Type": "Hospital",
         "HCF_name": "Providence Hospital",
-        "Fac_ID": 10,
+        "Fac_ID": 18,
         "bed_capaci": 75
       }
     }
