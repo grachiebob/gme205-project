@@ -240,29 +240,38 @@ def build_closest_facility_map(
     fg_ai.add_to(fmap)
 
     # Legend
-    legend_items = """
-    <span style="background:#1a9641;display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:5px"></span>≤ 3 min<br>
-    <span style="background:#52b347;display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:5px"></span>3 – 5 min<br>
-    <span style="background:#a8d96c;display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:5px"></span>5 – 8 min<br>
-    <span style="background:#fdae61;display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:5px"></span>8 – 11 min<br>
-    <span style="background:#d7191c;display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:5px"></span>&gt; 11 min
-    """
-
-    legend_html = f"""
+    legend_html = """
     <div style="position:fixed;bottom:30px;left:30px;z-index:9999;
                 background:white;padding:14px 16px;border-radius:8px;
-                border:1px solid #ccc;font-family:Arial;font-size:12px">
-    <b>Travel Time to Closest HCF</b><br>
-    {legend_items}
-    <hr>
-    <b>Markers</b><br>
-    ✚ Healthcare Facility<br>
-    ⬤ Dormitory (travel time)
-    </div>
-    """    
+                border:1px solid #ccc;font-family:Arial,sans-serif;
+                font-size:12px;box-shadow:2px 2px 8px rgba(0,0,0,0.18);
+                min-width:180px">
+      <b style="font-size:13px">Travel Time to Closest HCF</b><br>
+      <div style="margin-top:6px">
+        <span style="background:#1a9641;display:inline-block;
+              width:14px;height:14px;border-radius:50%;margin-right:5px"></span>≤ 3 min<br>
+        <span style="background:#52b347;display:inline-block;
+              width:14px;height:14px;border-radius:50%;margin-right:5px"></span>3 – 5 min<br>
+        <span style="background:#a8d96c;display:inline-block;
+              width:14px;height:14px;border-radius:50%;margin-right:5px"></span>5 – 8 min<br>
+        <span style="background:#fdae61;display:inline-block;
+              width:14px;height:14px;border-radius:50%;margin-right:5px"></span>8 – 11 min<br>
+        <span style="background:#d7191c;display:inline-block;
+              width:14px;height:14px;border-radius:50%;margin-right:5px"></span>&gt; 11 min
+      </div>
+      <hr style="margin:8px 0">
+      <b>Markers</b><br>
+      <span style="color:#1a5276">✚</span> Healthcare Facility<br>
+      <span>⬤</span> Dormitory (travel time)<br>
+      <hr style="margin:8px 0">
+      <i style="color:#555">Toggle layers via top-right control</i>
+    </div>"""
+    fmap.get_root().html.add_child(folium.Element(legend_html))
+
     folium.LayerControl(collapsed=False).add_to(fmap)
     fmap.save(output_path)
     print(f"[Map] Saved → {output_path}")
+
 
 # Main pipeline
 def load_dormitories(filepath):
