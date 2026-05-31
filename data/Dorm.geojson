@@ -20,7 +20,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 1,
         "Demand_Pop": 534,
-        "Node_Type": "Dormitory",
+        "Node_Type": "Dormitory"
       }
     },
     {
