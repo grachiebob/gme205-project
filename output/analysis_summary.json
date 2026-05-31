@@ -1,0 +1,1141 @@
+{
+    "study_area": "UP Diliman Dormitories",
+    "number_of_dormitories": 13,
+    "number_of_facilities": 18,
+    "facilities": [
+        {
+            "facility_name": "Lung Center of the Philippines",
+            "facility_id": 1,
+            "address": "Quezon Avenue",
+            "bed_capacity": 210,
+            "catchment_population": 3647,
+            "supply_ratio": 0.05758,
+            "beds_per_1000_residents": 57.58
+        },
+        {
+            "facility_name": "UP Health Service",
+            "facility_id": 2,
+            "address": "Laurel Avenue",
+            "bed_capacity": 50,
+            "catchment_population": 3647,
+            "supply_ratio": 0.01371,
+            "beds_per_1000_residents": 13.71
+        },
+        {
+            "facility_name": "Quezon City General Hospital",
+            "facility_id": 3,
+            "address": "Seminary Road",
+            "bed_capacity": 250,
+            "catchment_population": 557,
+            "supply_ratio": 0.44883,
+            "beds_per_1000_residents": 448.83
+        },
+        {
+            "facility_name": "National Kidney and Transplant Institute",
+            "facility_id": 4,
+            "address": "East Avenue",
+            "bed_capacity": 315,
+            "catchment_population": 3647,
+            "supply_ratio": 0.08637,
+            "beds_per_1000_residents": 86.37
+        },
+        {
+            "facility_name": "Quirino Memorial Medical Center",
+            "facility_id": 5,
+            "address": "J. P. Rizal Street",
+            "bed_capacity": 599,
+            "catchment_population": 3647,
+            "supply_ratio": 0.16424,
+            "beds_per_1000_residents": 164.24
+        },
+        {
+            "facility_name": "Armed Forces of the Philippines Medical Center",
+            "facility_id": 6,
+            "address": "V. Luna Road",
+            "bed_capacity": 1200,
+            "catchment_population": 3647,
+            "supply_ratio": 0.32904,
+            "beds_per_1000_residents": 329.04
+        },
+        {
+            "facility_name": "East Avenue Medical Center",
+            "facility_id": 7,
+            "address": "East Avenue",
+            "bed_capacity": 1000,
+            "catchment_population": 3647,
+            "supply_ratio": 0.2742,
+            "beds_per_1000_residents": 274.2
+        },
+        {
+            "facility_name": "Philippine Heart Center",
+            "facility_id": 8,
+            "address": "East Avenue",
+            "bed_capacity": 574,
+            "catchment_population": 3647,
+            "supply_ratio": 0.15739,
+            "beds_per_1000_residents": 157.39
+        },
+        {
+            "facility_name": "Veterans Memorial Medical Center",
+            "facility_id": 9,
+            "address": "North Avenue",
+            "bed_capacity": 766,
+            "catchment_population": 3647,
+            "supply_ratio": 0.21004,
+            "beds_per_1000_residents": 210.04
+        },
+        {
+            "facility_name": "New Era General Hospital",
+            "facility_id": 10,
+            "address": "Commonwealth Avenue",
+            "bed_capacity": 100,
+            "catchment_population": 0,
+            "supply_ratio": 0,
+            "beds_per_1000_residents": 0
+        },
+        {
+            "facility_name": "Philippine Children's Medical Center",
+            "facility_id": 11,
+            "address": "Quezon Avenue",
+            "bed_capacity": 200,
+            "catchment_population": 3647,
+            "supply_ratio": 0.05484,
+            "beds_per_1000_residents": 54.84
+        },
+        {
+            "facility_name": "World Citi Medical Center",
+            "facility_id": 12,
+            "address": "Aurora Boulevard",
+            "bed_capacity": 276,
+            "catchment_population": 3647,
+            "supply_ratio": 0.07568,
+            "beds_per_1000_residents": 75.68
+        },
+        {
+            "facility_name": "Diliman Doctors Hospital",
+            "facility_id": 13,
+            "address": "Commonwealth Avenue",
+            "bed_capacity": 130,
+            "catchment_population": 3647,
+            "supply_ratio": 0.03565,
+            "beds_per_1000_residents": 35.65
+        },
+        {
+            "facility_name": "Rosario Maclang Bautista General Hospital",
+            "facility_id": 14,
+            "address": "Batasan Hills",
+            "bed_capacity": 107,
+            "catchment_population": 3647,
+            "supply_ratio": 0.02934,
+            "beds_per_1000_residents": 29.34
+        },
+        {
+            "facility_name": "General Malvar Hospital",
+            "facility_id": 15,
+            "address": "Commonwealth Avenue",
+            "bed_capacity": 46,
+            "catchment_population": 3647,
+            "supply_ratio": 0.01261,
+            "beds_per_1000_residents": 12.61
+        },
+        {
+            "facility_name": "Dr. Montano G. Ramos General Hospital",
+            "facility_id": 16,
+            "address": "Bukidnon Street",
+            "bed_capacity": 25,
+            "catchment_population": 3647,
+            "supply_ratio": 0.00685,
+            "beds_per_1000_residents": 6.85
+        },
+        {
+            "facility_name": "Metro North Medical Center Hospital",
+            "facility_id": 17,
+            "address": "Mindanao Avenue Ext",
+            "bed_capacity": 80,
+            "catchment_population": 3647,
+            "supply_ratio": 0.02194,
+            "beds_per_1000_residents": 21.94
+        },
+        {
+            "facility_name": "Providence Hospital",
+            "facility_id": 18,
+            "address": "Providence Hospital",
+            "bed_capacity": 75,
+            "catchment_population": 3647,
+            "supply_ratio": 0.02056,
+            "beds_per_1000_residents": 20.56
+        }
+    ],
+    "dormitories": [
+        {
+            "dormitory_name": "Kalayaan Residence Hall",
+            "dormitory_id": 1,
+            "population": 534,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.88,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.88
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.04
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.08
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.27
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.65
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.68
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.15
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.63
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 9.75
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 9.87
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.04
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 10.13
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.34
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 10.86
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.34
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.37
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Molave Residence Hall",
+            "dormitory_id": 2,
+            "population": 190,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 1.26,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 1.26
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.25
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.29
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 6.86
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.24
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.27
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.37
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.42
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.92
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 9.96
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.08
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.25
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.28
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.07
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.1
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.58
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Yakal Residence Hall",
+            "dormitory_id": 3,
+            "population": 380,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 1.08,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 1.08
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.39
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.42
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.04
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.42
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.45
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.24
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.5
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.74
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 10.1
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.22
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.39
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.46
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.21
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.28
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.72
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Ipil Residence Hall",
+            "dormitory_id": 4,
+            "population": 326,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.89,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.89
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.58
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.61
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.23
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.61
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.64
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.06
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.56
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.69
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 10.29
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.41
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.58
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.64
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.4
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.47
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.91
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Kamia Residence Hall",
+            "dormitory_id": 5,
+            "population": 288,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 2.33,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 2.33
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 6.5
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 6.72
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 7.77
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.0
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.13
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 8.27
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 8.54
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.79
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.13
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.5
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.68
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 11.96
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 12.15
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 13.09
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 14.22
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Sampaguita Residence Hall",
+            "dormitory_id": 6,
+            "population": 284,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 2.28,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 2.28
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 6.45
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 6.67
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 7.72
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 7.95
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.08
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 8.22
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 8.49
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.74
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.09
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.45
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.63
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 11.91
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 12.1
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 13.04
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 14.17
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Centennial Dormitory",
+            "dormitory_id": 7,
+            "population": 482,
+            "accessibility_index": 1998.87,
+            "closest_facility": "Philippine Heart Center",
+            "closest_travel_time_minutes": 3.88,
+            "reachable_facilities": [
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 3.88
+                },
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 4.57
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 5.26
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 5.29
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 6.3
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 6.95
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 7.3
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 7.58
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 7.67
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 7.84
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 8.33
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.1
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 9.12
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 10.25
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 11.38
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 12.01
+                },
+                {
+                    "facility_name": "Quezon City General Hospital",
+                    "travel_time_minutes": 12.92
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Sanggumay Residence Hall",
+            "dormitory_id": 8,
+            "population": 126,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 1.02,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 1.02
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.18
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.21
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.37
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.75
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 8.78
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.29
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.73
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 9.89
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.01
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.18
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 10.23
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.48
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.0
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.48
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.51
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Kamagong Residence Hall",
+            "dormitory_id": 9,
+            "population": 75,
+            "accessibility_index": 1998.87,
+            "closest_facility": "Philippine Heart Center",
+            "closest_travel_time_minutes": 3.9,
+            "reachable_facilities": [
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 3.9
+                },
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 4.59
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 5.28
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 5.32
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 6.32
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 6.98
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 7.32
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 7.61
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 7.69
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 7.86
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 8.36
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.12
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 9.15
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 10.27
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 11.41
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 12.03
+                },
+                {
+                    "facility_name": "Quezon City General Hospital",
+                    "travel_time_minutes": 12.94
+                }
+            ]
+        },
+        {
+            "dormitory_name": "International Center",
+            "dormitory_id": 10,
+            "population": 160,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.63,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.63
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 5.07
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 7.1
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 8.02
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 8.58
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.08
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 9.4
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 9.43
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 10.18
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 10.71
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.9
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 11.07
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 11.37
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.89
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 13.26
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 14.4
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Ilang-Ilang Residence Hall",
+            "dormitory_id": 11,
+            "population": 272,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.37,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.37
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.8
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.84
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 8.27
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 8.87
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.37
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 9.65
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 9.69
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.92
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 10.51
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.63
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.81
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 11.11
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.62
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 13.1
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 14.14
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Acacia Residence Hall",
+            "dormitory_id": 12,
+            "population": 480,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.46,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.46
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.18
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.21
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.61
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 8.99
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 9.02
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.29
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.46
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 9.89
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.96
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 10.01
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.18
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.48
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 11.0
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.48
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.51
+                }
+            ]
+        },
+        {
+            "dormitory_name": "Balay Atleta",
+            "dormitory_id": 13,
+            "population": 50,
+            "accessibility_index": 1550.04,
+            "closest_facility": "UP Health Service",
+            "closest_travel_time_minutes": 0.5,
+            "reachable_facilities": [
+                {
+                    "facility_name": "UP Health Service",
+                    "travel_time_minutes": 0.5
+                },
+                {
+                    "facility_name": "Diliman Doctors Hospital",
+                    "travel_time_minutes": 4.15
+                },
+                {
+                    "facility_name": "General Malvar Hospital",
+                    "travel_time_minutes": 6.19
+                },
+                {
+                    "facility_name": "Philippine Heart Center",
+                    "travel_time_minutes": 7.92
+                },
+                {
+                    "facility_name": "Lung Center of the Philippines",
+                    "travel_time_minutes": 9.27
+                },
+                {
+                    "facility_name": "Armed Forces of the Philippines Medical Center",
+                    "travel_time_minutes": 9.3
+                },
+                {
+                    "facility_name": "East Avenue Medical Center",
+                    "travel_time_minutes": 9.33
+                },
+                {
+                    "facility_name": "Quirino Memorial Medical Center",
+                    "travel_time_minutes": 9.49
+                },
+                {
+                    "facility_name": "Rosario Maclang Bautista General Hospital",
+                    "travel_time_minutes": 9.86
+                },
+                {
+                    "facility_name": "National Kidney and Transplant Institute",
+                    "travel_time_minutes": 9.98
+                },
+                {
+                    "facility_name": "World Citi Medical Center",
+                    "travel_time_minutes": 9.99
+                },
+                {
+                    "facility_name": "Veterans Memorial Medical Center",
+                    "travel_time_minutes": 10.15
+                },
+                {
+                    "facility_name": "Philippine Children's Medical Center",
+                    "travel_time_minutes": 10.45
+                },
+                {
+                    "facility_name": "Metro North Medical Center Hospital",
+                    "travel_time_minutes": 10.97
+                },
+                {
+                    "facility_name": "Providence Hospital",
+                    "travel_time_minutes": 12.45
+                },
+                {
+                    "facility_name": "Dr. Montano G. Ramos General Hospital",
+                    "travel_time_minutes": 13.48
+                }
+            ]
+        }
+    ]
+}

@@ -21,10 +21,6 @@
         "Dorm_ID": 1,
         "Demand_Pop": 534,
         "Node_Type": "Dormitory",
-        "UP_ID": 1,
-        "UPD_ID": 1,
-        "Pop_Capaci": 534,
-        "Brgy_ID": 1381300124
       }
     },
     {
@@ -40,11 +36,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 2,
         "Demand_Pop": 190,
-        "Node_Type": "Dormitory",
-        "UP_ID": 2,
-        "UPD_ID": 2,
-        "Pop_Capaci": 190,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -60,11 +52,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 3,
         "Demand_Pop": 380,
-        "Node_Type": "Dormitory",
-        "UP_ID": 3,
-        "UPD_ID": 3,
-        "Pop_Capaci": 380,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -80,11 +68,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 4,
         "Demand_Pop": 326,
-        "Node_Type": "Dormitory",
-        "UP_ID": 4,
-        "UPD_ID": 4,
-        "Pop_Capaci": 326,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -100,11 +84,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 5,
         "Demand_Pop": 288,
-        "Node_Type": "Dormitory",
-        "UP_ID": 5,
-        "UPD_ID": 5,
-        "Pop_Capaci": 288,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -120,11 +100,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 6,
         "Demand_Pop": 284,
-        "Node_Type": "Dormitory",
-        "UP_ID": 6,
-        "UPD_ID": 6,
-        "Pop_Capaci": 284,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -140,11 +116,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 7,
         "Demand_Pop": 482,
-        "Node_Type": "Dormitory",
-        "UP_ID": 7,
-        "UPD_ID": 7,
-        "Pop_Capaci": 482,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -160,11 +132,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 8,
         "Demand_Pop": 126,
-        "Node_Type": "Dormitory",
-        "UP_ID": 8,
-        "UPD_ID": 8,
-        "Pop_Capaci": 126,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -180,11 +148,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 9,
         "Demand_Pop": 75,
-        "Node_Type": "Dormitory",
-        "UP_ID": 9,
-        "UPD_ID": 9,
-        "Pop_Capaci": 75,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -200,11 +164,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 10,
         "Demand_Pop": 160,
-        "Node_Type": "Dormitory",
-        "UP_ID": 10,
-        "UPD_ID": 10,
-        "Pop_Capaci": 160,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -220,11 +180,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 11,
         "Demand_Pop": 272,
-        "Node_Type": "Dormitory",
-        "UP_ID": 11,
-        "UPD_ID": 11,
-        "Pop_Capaci": 272,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -240,11 +196,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 12,
         "Demand_Pop": 480,
-        "Node_Type": "Dormitory",
-        "UP_ID": 12,
-        "UPD_ID": 12,
-        "Pop_Capaci": 480,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     },
     {
@@ -260,11 +212,7 @@
         "Name_1": "UP Campus",
         "Dorm_ID": 13,
         "Demand_Pop": 50,
-        "Node_Type": "Dormitory",
-        "UP_ID": 13,
-        "UPD_ID": 13,
-        "Pop_Capaci": 50,
-        "Brgy_ID": 1381300124
+        "Node_Type": "Dormitory"
       }
     }
   ]

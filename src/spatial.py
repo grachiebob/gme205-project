@@ -1,4 +1,3 @@
-import math
 from shapely.geometry import Point
 
 class SpatialObject:
@@ -22,8 +21,6 @@ class SpatialObject:
         """Northing in metres (EPSG:32651)."""
         return self.geometry.y
 
-    def distance_to(self, other):
-        return math.hypot(self.x - other.x, self.y - other.y)
 
 class Dormitory(SpatialObject):
 
